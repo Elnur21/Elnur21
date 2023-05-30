@@ -7,14 +7,16 @@
 ---
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elnur21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="49%" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elnur21&theme=dark&hide_border=true" width="49%"  height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Elnur21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="49%" height="250px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elnur21&theme=dark&hide_border=true" width="49%"  height="250px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnur21&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elnur21&theme=radical&no-frame=false&no-bg=false&margin-w=8)
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=Elnur21&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
+</p>
 
 ---
 ### 🔝 Top Contributed Repo

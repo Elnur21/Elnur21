@@ -26,4 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Elnur21&label=Profile%20Views&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elnur21&label=Profile%20views&color=0e75b6&style=flat" alt="Elnur21" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
